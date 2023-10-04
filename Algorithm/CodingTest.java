@@ -1,3 +1,5 @@
+package Algorithm;
+
 import java.util.Scanner;
 /**
  문자열에서 특정 문자 개수 찾기
